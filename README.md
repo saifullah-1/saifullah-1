@@ -42,6 +42,19 @@
 
 ---
 
+---
+
+## Featured Projects
+
+🔹 Coming Soon
+
+- 📊 Sales Data Analysis (Python)
+- 📈 Power BI Dashboard
+- 🗄️ SQL Practice Projects
+- 🐍 Python Data Analysis
+- 🤖 Machine Learning Projects
+---
+
 ## Contact
 
 📧 Email: saifal106@gmail.com
